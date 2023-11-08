@@ -1,0 +1,2 @@
+# Magnetic-levitation-maglev-with-machine-learning
+Magnetic levitation, often referred to as maglev, is a technology that uses magnetic fields to suspend and propel objects, typically trains or vehicles, without physical contact with the ground. Implementing a full maglev system is a complex engineering task and typically involves specialized hardware, as powerful electromagnets and control system.
